@@ -22,12 +22,6 @@ const Navbar = () => (
           About
         </Link>
       </div>
-      <div className="navbar-end">
-        <a href="/"><FontAwesomeIcon className="social_icon" icon={['fab', 'facebook']} size="4x" color="black"/></a>
-        <a href="/"><FontAwesomeIcon className="social_icon" icon={['fab', 'twitter']} size="4x" color="black"/></a>
-        <a href="/"><FontAwesomeIcon className="social_icon" icon={['fab', 'instagram']} size="4x" color="black"/></a>
-        <a href="/"><FontAwesomeIcon className="social_icon" icon={['fab', 'youtube']} size="4x" color="black"/></a>
-      </div>
     </div>
   </nav>
 )
