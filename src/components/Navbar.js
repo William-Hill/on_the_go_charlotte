@@ -1,16 +1,18 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { fab } from '@fortawesome/free-brands-svg-icons'
+
+library.add(fab)
 
 const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
-          <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-          </figure>
+          <h1 class="title is-1">On the Go Charlotte</h1>
         </Link>
       </div>
       <div className="navbar-start">
@@ -22,16 +24,10 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-end">
-        <a
-          className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <span className="icon">
-            <img src={github} alt="Github" />
-          </span>
-        </a>
+        <a href="/"><FontAwesomeIcon className="social_icon" icon={['fab', 'facebook']} size="4x" color="black"/></a>
+        <a href="/"><FontAwesomeIcon className="social_icon" icon={['fab', 'twitter']} size="4x" color="black"/></a>
+        <a href="/"><FontAwesomeIcon className="social_icon" icon={['fab', 'instagram']} size="4x" color="black"/></a>
+        <a href="/"><FontAwesomeIcon className="social_icon" icon={['fab', 'youtube']} size="4x" color="black"/></a>
       </div>
     </div>
   </nav>
