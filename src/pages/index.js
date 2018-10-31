@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Sidebar from '../components/Sidebar'
 
 export default class IndexPage extends React.Component {
   render() {
@@ -12,9 +13,10 @@ export default class IndexPage extends React.Component {
       <Layout>
         <section className="section">
           <div className="container">
-            <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-            </div>
+            <div class="columns is-multiline is-mobile is-centered">
+              <Sidebar />
+            <div class="column is-8 is-offset-1 is-centered">
+        	    {/* start of post */}
             {posts
               .map(({ node: post }) => (
                 <div
@@ -22,6 +24,7 @@ export default class IndexPage extends React.Component {
                   style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
                   key={post.id}
                 >
+                  <img src="http://placehold.it/900x200" />
                   <p>
                     <Link className="has-text-primary" to={post.fields.slug}>
                       {post.frontmatter.title}
@@ -39,6 +42,10 @@ export default class IndexPage extends React.Component {
                   </p>
                 </div>
               ))}
+              {/* end of posts column */}
+              </div>
+              {/* end of columns div */}
+            </div>
           </div>
         </section>
       </Layout>
