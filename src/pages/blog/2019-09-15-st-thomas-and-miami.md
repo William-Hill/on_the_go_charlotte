@@ -15,4 +15,10 @@ The sun is FOREVER shining in the Caribbean! Well, its pretty much always hot an
 
 Food is special here. I had oxtails so good it made me want to cry. They reminded me of my great-great aunt Eloise who has ascended now 6 years ago. It brought back her voice and smile for me. The plantains were so beautiful- not too sweet and not too green. 
 
-Above I mentioned the Eco tour on St. John. The guide was well verse
+Above I mentioned the Eco tour on St. John. The guide was well versed in the history of the land, how colonization and invasion has changed it, and what the local conservative efforts are to protect/preserve the land. I was able to Hike, kayak, and snorkel for one package deal! Oh and I met several giant turtles. At the beginning of snorkeling tour portion, we were advised on the hefty fine from touching a protected creature. So, if a turtle is swimming toward you, put your hands behind your back so you aren't at fault for contact. I had a tiny freak out because I didn't want to harm the turtle when it came up to the surface toward me. Pretty sure he saw the panic on my face and found me uninteresting once he surfaced. 
+
+On the menu: 
+
+On the spot: 
+
+One the town:
