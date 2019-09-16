@@ -7,6 +7,12 @@ tags:
   - StThomas
   - ecotour
   - turtles
+  - oxtails
+  - plantains
+  - gravy
+  - smoothies
+  - frozen drinks
+  - ''
 featuredImage: /img/linkedin_banner_image_1.png
 ---
 The United States Virgin Islands consist of St Thomas, St John, and St Croix. St Thomas and St John are a short ferry ride apart. Cruise ships dock in the harbor of Charlotte Amalie. Here passengers can off board for a day's excursion or shop til they drop duty free! St. John features a wonderful eco tour and less crowded beaches to explore. St. Croix is a 2 hour ferry boat ride from St. Thomas. (I experienced sea sickness the first time making this journey!) St Croix is more laid back known for the famous Cruzan lifestyle. There is no rush or hurry applied here. Just enjoy the less stress portion of life. Last year I stayed in Christiansted, St. Croix. This year was Charlotte Amalie (west), St Thomas.  
@@ -17,8 +23,8 @@ Food is special here. I had oxtails so good it made me want to cry. They reminde
 
 Above I mentioned the Eco tour on St. John. The guide was well versed in the history of the land, how colonization and invasion has changed it, and what the local conservative efforts are to protect/preserve the land. I was able to Hike, kayak, and snorkel for one package deal! Oh and I met several giant turtles. At the beginning of snorkeling tour portion, we were advised on the hefty fine from touching a protected creature. So, if a turtle is swimming toward you, put your hands behind your back so you aren't at fault for contact. I had a tiny freak out because I didn't want to harm the turtle when it came up to the surface toward me. Pretty sure he saw the panic on my face and found me uninteresting once he surfaced. 
 
-On the menu: 
+On the menu- Cuisine: 
 
-On the spot: 
+On the spot- Landmark: 
 
-One the town:
+One the town- Event:
